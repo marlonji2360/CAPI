@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\data\\capacitacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\data\\capacitacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\controllers\\capacitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\controllers\\capacitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\reporteive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\reporteive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\reporteive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\reporteive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\data\\capacitadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\data\\capacitadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\duplicadosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\duplicadosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\services\\pdfdiplomaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\services\\pdfdiplomaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\controllers\\capacitadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\controllers\\capacitadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReporteIve.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\ReporteIve.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\ReporteIve.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\ReporteIve.cs",
+              "RelativeToolTip": "GESCA\\Views\\ReporteIve.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:32:43.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteIve.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\ReporteIve.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\ReporteIve.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\ReporteIve.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GESCA\\Views\\ReporteIve.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T17:32:40.601Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapacitacionRepository.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Data\\CapacitacionRepository.cs",
+              "RelativeDocumentMoniker": "GESCA\\Data\\CapacitacionRepository.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Data\\CapacitacionRepository.cs",
+              "RelativeToolTip": "GESCA\\Data\\CapacitacionRepository.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAAABcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:51:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiplomasForm.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\DiplomasForm.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs",
+              "RelativeToolTip": "GESCA\\Views\\DiplomasForm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:42:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiplomasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\DiplomasForm.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GESCA\\Views\\DiplomasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:42:40.651Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DuplicadosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DuplicadosForm.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\DuplicadosForm.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DuplicadosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GESCA\\Views\\DuplicadosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:42:35.673Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CapacitadorController.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Controllers\\CapacitadorController.cs",
+              "RelativeDocumentMoniker": "GESCA\\Controllers\\CapacitadorController.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Controllers\\CapacitadorController.cs",
+              "RelativeToolTip": "GESCA\\Controllers\\CapacitadorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:41:52.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CapacitacionController.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Controllers\\CapacitacionController.cs",
+              "RelativeDocumentMoniker": "GESCA\\Controllers\\CapacitacionController.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Controllers\\CapacitacionController.cs",
+              "RelativeToolTip": "GESCA\\Controllers\\CapacitacionController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:41:50.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapacitadorRepository.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Data\\CapacitadorRepository.cs",
+              "RelativeDocumentMoniker": "GESCA\\Data\\CapacitadorRepository.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Data\\CapacitadorRepository.cs",
+              "RelativeToolTip": "GESCA\\Data\\CapacitadorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:40:34.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfDiplomaService.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Services\\PdfDiplomaService.cs",
+              "RelativeDocumentMoniker": "GESCA\\Services\\PdfDiplomaService.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Services\\PdfDiplomaService.cs",
+              "RelativeToolTip": "GESCA\\Services\\PdfDiplomaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwGoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:04:14.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
