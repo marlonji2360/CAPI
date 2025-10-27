@@ -14,7 +14,7 @@ namespace GESCA.Controllers
         {
             Capacitador Capacitador = new Capacitador();
             CapacitadorRepository CapacitadorRepository = new CapacitadorRepository();
-            return Capacitador = CapacitadorRepository.BuscarCapacitadorPorId((int)id);
+            return Capacitador = CapacitadorRepository.BuscarCapacitadorPorIdDiploma((int)id);
 
         }
         public List<Capacitador> MostrarCapacitador()

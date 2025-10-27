@@ -24,7 +24,7 @@ namespace GESCA.Data
             using (var cmd = new SqlCommand(sql, cn))
             {
                 cmd.CommandType = CommandType.Text;
-                cmd.Parameters.Add("@IdCapacitaciones", SqlDbType.Int).Value = id;
+                cmd.Parameters.Add("@id", SqlDbType.Int).Value = id;
                 cn.Open();
                 using (var rd = cmd.ExecuteReader())
                 {
@@ -32,7 +32,7 @@ namespace GESCA.Data
                     {
                         return new Capacitador
                         {
-                            IdCapacitador = Convert.ToInt32(rd["IdCapacitaciones"]),                           
+                            IdCapacitador = Convert.ToInt32(rd["IdCapacitador"]),                           
                             NombreCompleto = rd["NombreCompleto"] == DBNull.Value ? null : rd["NombreCompleto"].ToString(),
                             NombreEmpresa = rd["NombreEmpresa"] == DBNull.Value ? null : rd["NombreEmpresa"].ToString()
                             

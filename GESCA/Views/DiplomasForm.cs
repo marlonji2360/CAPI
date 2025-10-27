@@ -59,7 +59,7 @@ namespace GESCA.Views
                     try
                     {
                         servicio.GenerarDiplomaDesdePlantilla(
-                            plantillaPdfPath: @"C:\Temp\GESCA\Formato_para_constancia.pdf", // <-- AJUSTA ESTA RUTA
+                            plantillaPdfPath: @"C:\Software\CAPI\Formato_para_constancia.pdf", // <-- AJUSTA ESTA RUTA
                             salidaPdfPath: System.IO.Path.Combine(carpeta, $"Diploma_{p.NombreCompleto}.pdf"),
                             nombreCompleto: p.NombreCompleto,
                             puesto: p.Puesto,
@@ -76,6 +76,7 @@ namespace GESCA.Views
                     {
                         fail++;
                     }
+
                 }
 
                 MessageBox.Show($"Listo. Generados: {ok}. Fallidos: {fail}.");

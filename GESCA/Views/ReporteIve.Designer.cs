@@ -48,10 +48,11 @@
             // dgvCapacitacion
             // 
             this.dgvCapacitacion.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvCapacitacion.Location = new System.Drawing.Point(12, 240);
+            this.dgvCapacitacion.Location = new System.Drawing.Point(18, 369);
+            this.dgvCapacitacion.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dgvCapacitacion.Name = "dgvCapacitacion";
             this.dgvCapacitacion.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgvCapacitacion.Size = new System.Drawing.Size(776, 198);
+            this.dgvCapacitacion.Size = new System.Drawing.Size(1164, 305);
             this.dgvCapacitacion.TabIndex = 0;
             // 
             // cmbTipoBusqueda
@@ -67,36 +68,40 @@
             "Duracion",
             "Capacitado",
             "Puesto"});
-            this.cmbTipoBusqueda.Location = new System.Drawing.Point(97, 81);
+            this.cmbTipoBusqueda.Location = new System.Drawing.Point(146, 125);
+            this.cmbTipoBusqueda.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.cmbTipoBusqueda.Name = "cmbTipoBusqueda";
-            this.cmbTipoBusqueda.Size = new System.Drawing.Size(188, 21);
+            this.cmbTipoBusqueda.Size = new System.Drawing.Size(280, 28);
             this.cmbTipoBusqueda.TabIndex = 1;
             this.cmbTipoBusqueda.SelectedIndexChanged += new System.EventHandler(this.cmbTipoBusqueda_SelectedIndexChanged);
             // 
             // lblTipoBusqueda
             // 
             this.lblTipoBusqueda.AutoSize = true;
-            this.lblTipoBusqueda.Location = new System.Drawing.Point(12, 84);
+            this.lblTipoBusqueda.Location = new System.Drawing.Point(18, 129);
+            this.lblTipoBusqueda.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTipoBusqueda.Name = "lblTipoBusqueda";
-            this.lblTipoBusqueda.Size = new System.Drawing.Size(79, 13);
+            this.lblTipoBusqueda.Size = new System.Drawing.Size(116, 20);
             this.lblTipoBusqueda.TabIndex = 2;
             this.lblTipoBusqueda.Text = "Tipo Busqueda";
             // 
             // lblValor
             // 
             this.lblValor.AutoSize = true;
-            this.lblValor.Location = new System.Drawing.Point(48, 116);
+            this.lblValor.Location = new System.Drawing.Point(72, 178);
+            this.lblValor.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblValor.Name = "lblValor";
-            this.lblValor.Size = new System.Drawing.Size(31, 13);
+            this.lblValor.Size = new System.Drawing.Size(44, 20);
             this.lblValor.TabIndex = 3;
-            this.lblValor.Text = "Valor";
+            this.lblValor.Text = "Dato";
             // 
             // lblDel
             // 
             this.lblDel.AutoSize = true;
-            this.lblDel.Location = new System.Drawing.Point(56, 116);
+            this.lblDel.Location = new System.Drawing.Point(84, 178);
+            this.lblDel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblDel.Name = "lblDel";
-            this.lblDel.Size = new System.Drawing.Size(23, 13);
+            this.lblDel.Size = new System.Drawing.Size(33, 20);
             this.lblDel.TabIndex = 4;
             this.lblDel.Text = "Del";
             this.lblDel.Visible = false;
@@ -104,43 +109,48 @@
             // lblAl
             // 
             this.lblAl.AutoSize = true;
-            this.lblAl.Location = new System.Drawing.Point(308, 116);
+            this.lblAl.Location = new System.Drawing.Point(462, 178);
+            this.lblAl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblAl.Name = "lblAl";
-            this.lblAl.Size = new System.Drawing.Size(16, 13);
+            this.lblAl.Size = new System.Drawing.Size(23, 20);
             this.lblAl.TabIndex = 5;
             this.lblAl.Text = "Al";
             this.lblAl.Visible = false;
             // 
             // txtValor
             // 
-            this.txtValor.Location = new System.Drawing.Point(97, 113);
+            this.txtValor.Location = new System.Drawing.Point(146, 174);
+            this.txtValor.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtValor.Name = "txtValor";
-            this.txtValor.Size = new System.Drawing.Size(188, 20);
+            this.txtValor.Size = new System.Drawing.Size(280, 26);
             this.txtValor.TabIndex = 6;
             // 
             // dtpDel
             // 
             this.dtpDel.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpDel.Location = new System.Drawing.Point(97, 113);
+            this.dtpDel.Location = new System.Drawing.Point(146, 174);
+            this.dtpDel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dtpDel.Name = "dtpDel";
-            this.dtpDel.Size = new System.Drawing.Size(188, 20);
+            this.dtpDel.Size = new System.Drawing.Size(280, 26);
             this.dtpDel.TabIndex = 7;
             this.dtpDel.Visible = false;
             // 
             // dtpAl
             // 
             this.dtpAl.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtpAl.Location = new System.Drawing.Point(330, 113);
+            this.dtpAl.Location = new System.Drawing.Point(495, 174);
+            this.dtpAl.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.dtpAl.Name = "dtpAl";
-            this.dtpAl.Size = new System.Drawing.Size(188, 20);
+            this.dtpAl.Size = new System.Drawing.Size(280, 26);
             this.dtpAl.TabIndex = 8;
             this.dtpAl.Visible = false;
             // 
             // btnBuscar
             // 
-            this.btnBuscar.Location = new System.Drawing.Point(538, 111);
+            this.btnBuscar.Location = new System.Drawing.Point(807, 171);
+            this.btnBuscar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnBuscar.Name = "btnBuscar";
-            this.btnBuscar.Size = new System.Drawing.Size(75, 23);
+            this.btnBuscar.Size = new System.Drawing.Size(112, 35);
             this.btnBuscar.TabIndex = 9;
             this.btnBuscar.Text = "Buscar";
             this.btnBuscar.UseVisualStyleBackColor = true;
@@ -148,9 +158,10 @@
             // 
             // btnExcel
             // 
-            this.btnExcel.Location = new System.Drawing.Point(12, 211);
+            this.btnExcel.Location = new System.Drawing.Point(18, 325);
+            this.btnExcel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnExcel.Name = "btnExcel";
-            this.btnExcel.Size = new System.Drawing.Size(75, 23);
+            this.btnExcel.Size = new System.Drawing.Size(112, 35);
             this.btnExcel.TabIndex = 10;
             this.btnExcel.Text = "Excel";
             this.btnExcel.UseVisualStyleBackColor = true;
@@ -158,9 +169,10 @@
             // 
             // btnIve
             // 
-            this.btnIve.Location = new System.Drawing.Point(97, 211);
+            this.btnIve.Location = new System.Drawing.Point(146, 325);
+            this.btnIve.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnIve.Name = "btnIve";
-            this.btnIve.Size = new System.Drawing.Size(75, 23);
+            this.btnIve.Size = new System.Drawing.Size(112, 35);
             this.btnIve.TabIndex = 11;
             this.btnIve.Text = "Texto IVE";
             this.btnIve.UseVisualStyleBackColor = true;
@@ -168,9 +180,10 @@
             // 
             // btnDiploma
             // 
-            this.btnDiploma.Location = new System.Drawing.Point(249, 211);
+            this.btnDiploma.Location = new System.Drawing.Point(374, 325);
+            this.btnDiploma.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnDiploma.Name = "btnDiploma";
-            this.btnDiploma.Size = new System.Drawing.Size(75, 23);
+            this.btnDiploma.Size = new System.Drawing.Size(112, 35);
             this.btnDiploma.TabIndex = 12;
             this.btnDiploma.Text = "Diplomas";
             this.btnDiploma.UseVisualStyleBackColor = true;
@@ -180,7 +193,8 @@
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(323, 18);
+            this.lblTitulo.Location = new System.Drawing.Point(484, 28);
+            this.lblTitulo.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(200, 37);
             this.lblTitulo.TabIndex = 13;
@@ -188,9 +202,9 @@
             // 
             // ReporteIve
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1200, 692);
             this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.btnDiploma);
             this.Controls.Add(this.btnIve);
@@ -205,6 +219,7 @@
             this.Controls.Add(this.lblTipoBusqueda);
             this.Controls.Add(this.cmbTipoBusqueda);
             this.Controls.Add(this.dgvCapacitacion);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "ReporteIve";
             this.Text = "CapacitacionBusqueda";
             ((System.ComponentModel.ISupportInitialize)(this.dgvCapacitacion)).EndInit();
