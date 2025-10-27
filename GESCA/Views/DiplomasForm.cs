@@ -72,14 +72,16 @@ namespace GESCA.Views
                         );
                         ok++;
                     }
-                    catch
+                    catch( Exception ex )
                     {
+                        MessageBox.Show(ex.ToString());
                         fail++;
+                        
                     }
 
                 }
 
-                MessageBox.Show($"Listo. Generados: {ok}. Fallidos: {fail}.");
+                MessageBox.Show($"Listo. Generados: {ok}. Fallidos: {fail}");
             }
         }
     }

@@ -198,7 +198,16 @@ namespace GESCA.Views
                     estudiante.Gerencia = row.Cells["Gerencia"].Value?.ToString();
                     estudiante.Puesto = row.Cells["Puesto"].Value?.ToString();
 
-                    detalleEstudiante.Notas = row.Cells["Nota"].Value?.ToString();
+                    decimal nota;
+                    if (decimal.TryParse(row.Cells["Nota"].Value?.ToString(), out nota))
+                    {
+                        detalleEstudiante.Notas = nota;
+                    }
+                    else
+                    {
+
+                        detalleEstudiante.Notas = 0;
+                    }
                     detalleEstudiante.Grupo = row.Cells["Grupo"].Value?.ToString();
                     detalleEstudiante.Capacitaciones_IdCapacitaciones = idCapacitacion;
 
@@ -242,7 +251,18 @@ namespace GESCA.Views
                     estudiante.Gerencia = row.Cells["Gerencia"].Value?.ToString();
                     estudiante.Puesto = row.Cells["Puesto"].Value?.ToString();
 
-                    detalleEstudiante.Notas = row.Cells["Nota"].Value?.ToString();
+
+                    decimal nota;
+                    if (decimal.TryParse(row.Cells["Nota"].Value?.ToString(), out nota))
+                    {
+                        detalleEstudiante.Notas = nota;
+                    }
+                    else
+                    {
+                        
+                        detalleEstudiante.Notas = 0;
+                    }
+
                     detalleEstudiante.Grupo = row.Cells["Grupo"].Value?.ToString();
                     detalleEstudiante.Capacitaciones_IdCapacitaciones = idCapacitacion;
 

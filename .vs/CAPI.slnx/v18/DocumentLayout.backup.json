@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\duplicadosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\duplicadosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\services\\pdfdiplomaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\services\\pdfdiplomaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|c:\\local\\capacitaciones\\proyecto\\gesca\\gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A40BA3C7-7F73-47B5-A881-8CF98165F6F9}|GESCA\\CAPI.csproj|solutionrelative:gesca\\views\\diplomasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,13 +39,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DuplicadosForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DuplicadosForm.cs",
-              "RelativeDocumentMoniker": "GESCA\\Views\\DuplicadosForm.cs",
-              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DuplicadosForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GESCA\\Views\\DuplicadosForm.cs [Dise\u00F1o]",
+              "Title": "PdfDiplomaService.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Services\\PdfDiplomaService.cs",
+              "RelativeDocumentMoniker": "GESCA\\Services\\PdfDiplomaService.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Services\\PdfDiplomaService.cs",
+              "RelativeToolTip": "GESCA\\Services\\PdfDiplomaService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T18:00:13.169Z",
+              "WhenOpened": "2025-10-27T23:13:14.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiplomasForm.cs",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\DiplomasForm.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs",
+              "RelativeToolTip": "GESCA\\Views\\DiplomasForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:39:43.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiplomasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs",
+              "RelativeDocumentMoniker": "GESCA\\Views\\DiplomasForm.cs",
+              "ToolTip": "C:\\Local\\Capacitaciones\\Proyecto\\GESCA\\GESCA\\Views\\DiplomasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GESCA\\Views\\DiplomasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:39:41.919Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
